@@ -1,0 +1,4 @@
+[
+	{ "keys": ["f5"], "command": "find_use" },
+	{ "keys": ["super+ctrl+a"], "command": "alignment" }
+]

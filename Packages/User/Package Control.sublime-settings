@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"jQuery",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"PHP Companion",
+		"phpfmt",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"TypeScript"
+	]
+}
